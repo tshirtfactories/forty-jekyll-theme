@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Tshirt Tactories INC
+subtitle: by Rao Faisal
+email: faisal@tshirtfactories.com
+description: A place where you don't have any limit in design and feshion
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Dubai
+city: Dubai
+state: DXB
+zip_code: 00000
+country: United Arab Emirates
+phone: (+971) 52-362-1692
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
