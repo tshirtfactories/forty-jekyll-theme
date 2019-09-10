@@ -3,7 +3,7 @@ title: Tshirt Factories
 subtitle: by Rao Faisal
 email: faisal@tshirtfactories.com
 description: A place where you don't have any limit in feshion and style
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Dubai
